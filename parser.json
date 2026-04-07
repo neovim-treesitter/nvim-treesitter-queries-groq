@@ -1,8 +1,7 @@
 {
+  "lang": "groq",
   "url": "https://github.com/ajrussellaudio/tree-sitter-groq",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
-  "location": null,
-  "lang": "groq"
+  "parser_version": "1fa1ab0eb391a270957e8ad8c731b492e3645649",
+  "location": null
 }
